@@ -34,7 +34,7 @@ import org.jetbrains.annotations.NotNull;
 public class MainActivity extends AppCompatActivity implements NavigationView.OnNavigationItemSelectedListener {
 
     String searchResult = "";
-
+    //hello im also in there
     ImageButton img_btn_setting_main_bottom_menu ,
             img_btn_location_main_bottom_menu ,
             img_btn_profile_main_bottom_menu ,
